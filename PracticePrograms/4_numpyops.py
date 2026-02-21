@@ -18,7 +18,6 @@ arr2 = arr1.reshape(3,2)
 print(arr2)
 
 #iterating array
-
 for i in arr:
     print(i)
 
