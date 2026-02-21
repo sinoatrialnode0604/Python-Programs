@@ -1,0 +1,3 @@
+#importing numpy library
+
+imprt
